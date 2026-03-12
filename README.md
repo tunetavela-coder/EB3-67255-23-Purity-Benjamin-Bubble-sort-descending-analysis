@@ -92,4 +92,4 @@ More efficient algorithms such as Merge Sort or Quick Sort are better suited for
 
 # Repository Access
 
-The project repository is available online and includes:
+The project repository is available online 

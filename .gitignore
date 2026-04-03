@@ -1,0 +1,31 @@
+# ── Compiled output ───────────────────────────────────────────────────────────
+*.exe
+*.o
+*.obj
+*.out
+build_out.txt
+
+# ── Runtime DLLs (ship these separately or instruct users to install via MSYS2)
+*.dll
+
+# ── IDE / Editor artefacts ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.cache
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# ── OS artefacts ──────────────────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ── Temporary / debug files ───────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
